@@ -1,0 +1,31 @@
+#headimage {
+    background-image: url("https://i.pinimg.com/736x/b6/ab/d4/b6abd4face917b381650dde605f62e4f.jpg");
+  }
+  
+body {
+    font-family: Gabriola;
+  }
+  
+  h1 {
+    font-size: 55px;
+    font-weight: bold;
+    font-style: italic;
+    color:rgb(4, 169, 245);
+    text-align: center;
+  }
+  
+  h2 {
+    background-color: #170361;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(4, 169, 245);
+    text-align: center;
+  }  
+
+  p  {
+    font-size: 30px;
+    font-style: italic;
+    color: black;
+    text-align: center;
+  }  
